@@ -157,3 +157,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#pip install --upgrade pip setuptools wheel
+#pip install torch torchvision torchaudio
+#pip install ultralytics
+#pip install opencv-python
+#pip install requests numpy
+
